@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>PATS_Life Guide</title><link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/coin-slider.min.js"></script>
+    <link rel="stylesheet" href="css/coin-slider-styles.css" type="text/css" />
+    <script type="text/javascript">
+	$(document).ready(function() {
+		$('#coin-slider').coinslider({ width: 372, // width of slider panel
+			height: 250, // height of slider panel
+			spw: 10, // squares per width
+			sph: 5, // squares per height
+			delay: 3000, // delay between images in ms
+			sDelay: 30, // delay beetwen squares in ms
+			opacity: 1, // opacity of title and navigation
+			titleSpeed: 500, // speed of title appereance in ms
+			effect: 'random', // random, swirl, rain, straight
+			navigation: true, // prev next and buttons
+			links : false, // show images as links 
+			hoverPause: true // pause on hover 
+			});
+	});
+</script>
+<style type="text/css">
+.style1 {
+	font-size: 24pt;
+	font-family: 微軟正黑體;
+	color: #000000;
+}
+.style2 {
+	font-size: 16pt;
+}
+.style3 {
+	text-align: center;
+}
+.style5 {
+	color: #0000FF;
+	font-size: medium;
+}
+.style7 {
+	font-family: 微軟正黑體;
+}
+.style9 {
+	font-size: medium;
+}
+.style10 {
+	text-align: center;
+	font-size: medium;
+		color: #0000FF;
+}
+.style11 {
+	font-family: 微軟正黑體;
+	text-decoration: underline;
+}
+.style12 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+	text-decoration: underline;
+}
+.style15 {
+	text-decoration: underline;
+}
+.style16 {
+	color: #000000;
+}
+.style17 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+	letter-spacing: 1pt;
+}
+.style19 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+	letter-spacing: 2pt;
+}
+.style21 {
+	text-align: center;
+	font-size: medium;
+	text-decoration: underline;
+	font-family: 微軟正黑體;
+}
+</style>
+<!--[if lt IE 7]>
+		<div style=' clear: both; text-align:center; position: relative; left: -9px; top: -21px; width: 831px; height: 0px;'>
+			&nbsp;</div>
+	<![endif]--></head>
+
+<body style="background-attachment: fixed">
+<div id="wrapper" class="container_12" style="height: 1283px">
+	<div id="header" class="container_12" style="height: 186px">
+    	
+									<img alt="logo" src="princeton%20logo.jpg" width="77" height="77" style="float: right" /><div style="width: 400px; left: 0px; top: -14px; height: 132px;" class="grid_4">
+			<h1 style="height: 0px; width: 735px;" class="style1">
+			<a href="index.html">Princeton Association of Taiwanese Students</a></h1>
+			<h1 style="height: 0px; width: 735px;" class="style1">普 林 斯 頓 台 灣 同 
+			學 會</h1>
+		</div><div class="grid_8" style="left: 0px; top: 0px; width: 932px">
+        	<div id="nav">
+                        </div>
+        </div>
+                        	<ul class="menu" style="width: 79%; height: 38px;">
+                            	
+								<li><a href="index.html" style="left: 0px; top: 0px; height: 1px">
+								Home</a></li>
+								<li class="active">
+								 <a href="life.html">life GUIDE </a></li>	 
+                             <li><a href="people.html">officers</a></li>	 
+                                <li><a href="index.htm">photos</a></li>
+                                <li><a href="links.html">links</a></li>
+                                 
+                                
+                            
+                                
+                            </ul>
+          <div class="clear"></div>
+    </div><!-- end header -->
+    
+    <div id="content" class="container_12" style="height: 978px">
+   
+        	<h2 class="style1"><strong class="style2">&lt;普林斯頓生存功略&gt;</strong></h2>
+            
+            
+            
+            
+ 			<table style="width: 100%">
+				<tr>
+					<td style="width: 69px"><font SIZE="5">
+					<p class="style3" style="width: 130px">
+					<span class="style5"><a href="life1.html" class="style16">準備出發</a></span><strong>
+					</strong>
+					</p>
+					</font></td>
+					<td style="width: 130px">
+					<p class="style3"><font SIZE="5" class="style9">
+					<span class="style7"><span class="style15">
+					<a href="life2.html" class="style16">宿舍及Meal Plan</a></span></span> </p>
+					</font></td>
+					<td style="width: 130px" class="style10">
+					<a href="life3.html" class="style16">生活所需</a></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<a href="life4.html" class="style16">外食選擇</a></span></span></font></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<strong>其他</strong></span></span></font></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<a class="style16" target="_blank" href="Taiwanese%20Princeton%20Living%20Handbook%202013.pdf">
+					PDF完整版下載</a></span></span></font></td>
+				</tr>
+			</table>
+                          <font SIZE="3">
+			<p>&nbsp;</p>
+			<p class="style11"><strong class="style9">Social security 
+			number(SSN), SSN Denial Letter, ITIN:</strong></p>
+			<p class="style19" style="width: 884px; left: 35px; position: relative; top: 0;">
+			學校會在開學前帶大家一起去Trenton申請。若還是拿fellowship的話則不能夠申請SSN，只能申請denial 
+			letter，但其實只要在系上打個零工就可以請系上開證明申請SSN，早點拿到SSN很多事情就會變得比較方便。SSN或是denial 
+			letter這兩種東西都可以代表身分證明，申請駕照時若沒有SSN可以出示SSN denial letter。由於台灣和美國沒有tax 
+			treaty，開學時不需要申請ITIN，四月報稅的時候再申請即可。</p>
+			<p class="style12"><strong>Traveling Signature</strong></p>
+			<p style="width: 881px; position: relative; left: 39px; top: 0px;" class="style17">
+			入境美國後，要出境再入境，I-20上面必須要有traveling 
+			signature否則無法再度入境。學校會在10月寄信通知大家可以前往Davis international 
+			center辦traveling 
+			signature。一次簽名的有效期限只有一年，期限過了要再重新辦理。提醒不要在回國前幾天才處理，因為簽名的人process的速度有點慢，通常要隔天或隔幾天再請你回去拿，所以要注意。</p>
+			<p class="style11"><font SIZE="3">
+			<strong class="style9">考駕照</strong></font></p>
+			<p style="left: 43px; top: 0px; width: 873px" class="style19">
+			基本上只要持有台灣駕照和國際駕照，並通過knowledge test和視力檢查，即可拿New Jersey 
+			駕照。但是還有可能因為不同原因還會被要求參加路考，不過路考不會太難。有兩位學長姐(Amy, 
+			秦懷安)考過路考，有問題可以詢問。如果真的不想考路考的話，可以考慮去遠一點但是沒有路考考場的DMV換駕照，有很高的機會就不用考路考了。<br />
+			<br />
+			駕照是可以用來證明身份、年齡的證件，所以建議盡早拿到，要不然很多場合都要拿護照當證明文件，比較麻煩。<br />
+			<br />
+			考駕照需要有六點認證。需要帶的證件包括：<br />
+			銀行帳單(上面要有你的住址還有寄件日期)，護照I-20,I-94，SSN/SSN denial 
+			letter，醫療保險卡(小白卡)，學生證(Tiger card)，國際駕照，台灣駕照。此外，必須等到I-20上的開學日期之後才能考照。</p>
+        </div>
+	<!-- end home-top -->
+        
+          <div class="clear"></div>
+    </div><!-- end content -->
+    
+   
+    
+  <div class="clear"></div>
+</div><!-- end wrapper -->
+ <div id="footer" class="container_12">
+  <div id="footer-inner" class="grid_12">
+                </div><!-- end footer-inner -->
+    </div><!-- end footer -->
+
+
+			</font>
+			
+
+</body></html>

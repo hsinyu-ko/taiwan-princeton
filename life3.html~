@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>PATS_Life Guide</title><link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="js/coin-slider.min.js"></script>
+    <link rel="stylesheet" href="css/coin-slider-styles.css" type="text/css" />
+    <script type="text/javascript">
+	$(document).ready(function() {
+		$('#coin-slider').coinslider({ width: 372, // width of slider panel
+			height: 250, // height of slider panel
+			spw: 10, // squares per width
+			sph: 5, // squares per height
+			delay: 3000, // delay between images in ms
+			sDelay: 30, // delay beetwen squares in ms
+			opacity: 1, // opacity of title and navigation
+			titleSpeed: 500, // speed of title appereance in ms
+			effect: 'random', // random, swirl, rain, straight
+			navigation: true, // prev next and buttons
+			links : false, // show images as links 
+			hoverPause: true // pause on hover 
+			});
+	});
+</script>
+<style type="text/css">
+.style1 {
+	font-size: 24pt;
+	font-family: 微軟正黑體;
+	color: #000000;
+}
+.style2 {
+	font-size: 16pt;
+}
+.style3 {
+	text-align: center;
+}
+.style5 {
+	color: #0000FF;
+	font-size: medium;
+}
+.style7 {
+	font-family: 微軟正黑體;
+}
+.style8 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+}
+.style9 {
+	font-size: medium;
+}
+.style10 {
+	text-align: center;
+	font-size: medium;
+		color: #0000FF;
+}
+.style11 {
+	font-family: 微軟正黑體;
+	text-decoration: underline;
+}
+.style12 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+	text-decoration: underline;
+}
+.style15 {
+	text-decoration: underline;
+}
+.style16 {
+	color: #000000;
+}
+.style17 {
+	font-family: 微軟正黑體;
+	font-size: medium;
+	letter-spacing: 1pt;
+}
+.style18 {
+	letter-spacing: 1pt;
+}
+.style21 {
+	text-align: center;
+	font-size: medium;
+	text-decoration: underline;
+	font-family: 微軟正黑體;
+}
+</style>
+<!--[if lt IE 7]>
+		<div style=' clear: both; text-align:center; position: relative; left: -9px; top: -21px; width: 831px; height: 0px;'>
+			&nbsp;</div>
+	<![endif]--></head>
+
+<body style="background-attachment: fixed">
+<div id="wrapper" class="container_12" style="height: 1283px">
+	<div id="header" class="container_12" style="height: 186px">
+    	
+									<img alt="logo" src="princeton%20logo.jpg" width="77" height="77" style="float: right" /><div style="width: 400px; left: 0px; top: -14px; height: 132px;" class="grid_4">
+			<h1 style="height: 0px; width: 735px;" class="style1">
+			<a href="index.html">Princeton Association of Taiwanese Students</a></h1>
+			<h1 style="height: 0px; width: 735px;" class="style1">普 林 斯 頓 台 灣 同 
+			學 會</h1>
+		</div><div class="grid_8" style="left: 0px; top: 0px; width: 932px">
+        	<div id="nav">
+                        </div>
+        </div>
+                        	<ul class="menu" style="width: 79%; height: 38px;">
+                            	
+								<li><a href="index.html" style="left: 0px; top: 0px; height: 1px">
+								Home</a></li>
+								<li class="active">
+								 <a href="life.html">life GUIDE </a></li>	 
+                                 <li><a href="people.html">officers</a></li>	 
+                                <li><a href="index.htm">photos</a></li>
+                                <li><a href="links.html">links</a></li>
+                                
+                                
+                            
+                                
+                            </ul>
+          <div class="clear"></div>
+    </div><!-- end header -->
+    
+    <div id="content" class="container_12" style="height: 978px">
+   
+        	<h2 class="style1"><strong class="style2">&lt;普林斯頓生存功略&gt;</strong></h2>
+            
+            
+            
+            
+ 			<table style="width: 100%">
+				<tr>
+					<td style="width: 69px"><font SIZE="5">
+					<p class="style3" style="width: 130px">
+					<span class="style5"><a href="life1.html" class="style16">準備出發</a></span><strong>
+					</strong>
+					</p>
+					</font></td>
+					<td style="width: 130px">
+					<p class="style3"><font SIZE="5" class="style9">
+					<span class="style7"><span class="style15">
+					<a href="life2.html" class="style16">宿舍及Meal Plan</a></span></span> </p>
+					</font></td>
+					<td style="width: 130px" class="style10"><strong>生活所需</strong></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<a href="life4.html" class="style16">外食選擇</a></span></span></font></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<a class="style16" href="life5.html">其他</a></span></span></font></td>
+					<td style="width: 130px" class="style3"><font SIZE="5">
+					<span class="style5"><span class="style21">
+					<a class="style16" target="_blank" href="Taiwanese%20Princeton%20Living%20Handbook%202013.pdf">
+					PDF完整版下載</a></span></span></font></td>
+				</tr>
+			</table>
+                          <font SIZE="3">
+			<p>&nbsp;</p>
+			<p class="style11"><strong class="style9">基本用品採買 </strong></p>
+			<p class="style17" style="width: 884px; left: 35px; position: relative; top: 0;">
+			一般生活用品可以在學校的U-store或是鎮上CVS買得到(有點像台灣的便利商店)。比較需要注意的是GC有對電器(i.e. 
+			熱水器/冰箱等等)的安全規範，雖然Housing網站上會列出符合規範的Model，一個比較簡單的方式是從Ustore購買，Ustore雖然東西價格稍貴，但是只要裡面賣的電器，宿舍裡就能夠用，不需要擔心是否不合規範而被罰錢(若使用不合規範的電器，東西會被沒收，且罰款50)。或是先確定Ustore有賣哪些電器，然後自己再從Amazon用比較便宜的價格購買。另外Princeton鎮外的有許多的Plaza，Plaza中會有大賣場像是Walmart、Target等，賣的東西比較便宜也比較齊全，這些Plaza距Princeton開車約10分鐘車程。只要跟學長姊約好我們都會很熱心載你去。<br />
+			<br />
+			每年九月多Princeton附近的一個教會會有Church Donation to International 
+			Student，有些東西不急著買或可以接受二手的話到時可以去看看。基本上應有盡有，沙發書桌茶几、立燈檯燈、浴巾毛巾床單枕頭棉被、鍋碗瓢盆、腳踏車等等。全部都不用錢，可以大家約一約一起去撿好康。大型物品教會的人還會幫忙運到宿舍，真的是非常慷慨。</p>
+			<p class="style12"><strong>銀行開戶</strong></p>
+			<p style="width: 881px; position: relative; left: 39px; top: 0px;" class="style17">
+			Nassau street上面有幾家銀行，像是Bank of America、PNC、Chase和American 
+			Express。大部分人選擇Bank of 
+			America，他是美國各地都有的大銀行，會方便許多。優點是因為這裡的學長姊都用這，所以轉帳較方便，也可以來個經驗交流，雖然是這樣說，但是聽說缺點是常會亂收錢，這算美國銀行共通的缺點，假設你帳戶的流通沒有達到他們訂下的規定，罰鍰就來了。所以就乖乖照他們的規矩走，哪一家實體銀行都沒差。這種銀行是方便你存「實體」錢，想當然耳，利息自然是少的可憐，大概只夠你洗衣服時多烘個二十分鐘，這時另一選擇為網路銀行，利息可達1%，雖然聽起來還是蠅頭小利，不過某種程度上，還是不無小補，畢竟積少成多嘛！在這種有帳戶之後上網設定direct 
+			deposit，學校薪水可以直接轉入戶頭，建議事先轉進checking，之後看自己一個月的開銷，再轉入savings，使用debit 
+			card 
+			一般消費或是上網購物都比較方便。開戶請攜帶護照、學生證，通常八月開始，BOA會有給新開戶的人優惠，太早過來做實驗的人(七月)會沒有這個Bonus。</p>
+			<p class="style11"><font SIZE="3">
+			<strong class="style9">申辦手機</strong></font></p>
+			<p style="left: 43px; top: 0px; width: 873px" class="style17">
+			剛到美國可以先用易付卡(例如AT&amp;T的go 
+			phone)，無論撥打、接聽、收發簡訊都要付費。之後要申辦正式的美國手機門號需要SSN，但如果第一年拿 
+			Fellowship就沒有SSN。不過有SSN學長姊可以辦Family Plan。Family 
+			Plan比一般個人的plan便宜，最多可以有五個人在同一個plan裡，只需要一個人有SSN。美國有三大手機門號分別是T-mobile, 
+			AT&amp;T和Verizon. 前兩者的通訊技術跟台灣大多數通信業者一樣(GSM), 
+			而Verizon跟亞太類似(CDMA)。若整個plan有五個人的話，手機通話費大約是Verizon(20+$) &gt; AT&amp;T(~20$) 
+			&gt; T-mobile(15+$)，通訊品質 Verizon&gt;AT&amp;T&gt;T-mobile，而T-mobile出了普林收訊就變差了。 
+			如果使用smart phone則還需要額外買網路費(美國沒有上網吃到飽方案)。另外要使用iPhone得用AT&amp;T or 
+			Verizon，(有其他方法但麻煩, 歡迎提供簡單又便宜的方法)。</p>
+			<p class="style12"><strong>看病</strong></p>
+			<p style="left: 41px; top: 0px; width: 875px" class="style8">
+			<span class="style18">到學校醫院(MaCosh Health Center)即可, 在Frist Campus 
+			Center 
+			附近。學生完全免費，隨時走進去都可以，不用特別預約，除非是長期性的看診。大小毛病都可以去就診，第一次看診的直接到入口左手邊掛號，他會依照病情幫你安排，但後續的追蹤就要等醫生看完這次，樓下櫃台才會幫你預約下一次，通常是一至兩個禮拜，選擇的時間不多(應該是醫生上班時間不長吧)，所以要依照你可以的時間，配合醫生看診的時間，來掛下一次的門診，有時候會覺得很不方便。<br />
+			<br />
+			美國人做事很謹慎，若是他們無法處裡的，會安排轉診。如果是需要轉診，看診的金額過大，可以和MaCosh 
+			Center負責International 
+			student的負責人說，他手頭有一定的金額，可以全額或部份支助學生，這一部份在開學的Orientation他會到場說明，到時有任何問題再跟他詢問即可</span><font SIZE="3">。</font></p>
+			<p class="style12"><strong>理頭髮</strong></p>
+			<p style="left: 43px; top: 0px; width: 873px" class="style17">
+			學校附近有20~40$的理髮店。Princeton shopping center 內有家便宜的理髮店叫做 Great clip 
+			付錢時要出示學生證才有打折，10$以內。如果比較要求可以到紐約剪。另外，如果是不介意家庭理髮師的話，也是有可以用一餐就解決理頭髮的方法。</p>
+        </div><!-- end home-top -->
+        
+          <div class="clear"></div>
+    </div><!-- end content -->
+    
+   
+    
+  <div class="clear"></div>
+</div><!-- end wrapper -->
+ <div id="footer" class="container_12">
+  <div id="footer-inner" class="grid_12">
+                </div><!-- end footer-inner -->
+    </div><!-- end footer -->
+
+
+			</font>
+			
+
+</body></html>
