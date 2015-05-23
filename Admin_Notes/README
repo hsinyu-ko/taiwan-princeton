@@ -1,0 +1,34 @@
+網管交接事項
+
+1. 管理工具:
+  [required] 文字編輯器
+  [optional] git
+
+2. 伺服器位置
+  taiwan@arizona.princeton.edu
+
+3. 檔案架構 public_html
+   |
+   |-Admin_Notes       : 管理者紀錄
+   |-css               : template
+   |-headshot          : template
+   |-images            : template images
+   |-index.html        : 主文件 （NEWs & Events 分頁）
+   |-js                : template
+   |-life1.html        : <普林斯頓生存功略>: 準備出發 分頁
+   |-life2.html        : <普林斯頓生存功略>: 宿舍及Meal Plan 分頁
+   |-life3.html        : <普林斯頓生存功略>: 生活所需   分頁
+   |-life4.html        : <普林斯頓生存功略>: 外食選擇   分頁
+   |-life5.html        : <普林斯頓生存功略>: 其他      分頁
+   |-links.html        : friendly cites
+   |-PATS_LOGO.png     : logo of PATS (2014-2015)
+   |-pdf_docs          : 歷年生存手冊 （使用 link 連結目前的版本）
+   |-People.html       : <現任幹部 OFFICERS>  分頁
+   |-photos.html       : wrapper to a picasa album shared using google+ circle
+   |-princeton logo.jpg: logo
+   |-README.photo
+   |-scripts           : template
+   |-Sponsor Logos     : logo
+   |-sponsors.html     : sponsors websites
+   |-style.css         : template
+   |-styles            : template
