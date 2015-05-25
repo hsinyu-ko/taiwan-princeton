@@ -35,4 +35,8 @@
 
 4. news & events 更新
   a. 保持永久置頂（第二則） Working in the US: Visa Seminar
-  b. 
+  b. 更改背景白底長度: 搜尋 index.html "HK param: change the height" 然後改變 此行的 height value
+  c. 更新 news :
+    i. 最新 news 位置 搜尋 "HK: newest post starts here" 此處是最新 post 的位置直到 "HK: newest post ends here"
+   ii. 移動舊的 post， 把上述範圍內的內容直接貼到 "HK: this post has to be here  #end" 後面
+  iii. 更改最新的 post，回到 i. 所述的範圍內做更新修改 （必要時更改 4.b 所述 白背景長度）
